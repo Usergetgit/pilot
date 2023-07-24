@@ -1,0 +1,20 @@
+#Color{
+    color: #FF7F50;
+}
+#Font_Size{
+    font-size: 2rem;
+}
+#Font_Weight{
+    font-weight: 900;
+}
+#Font_Family{
+    font-family: 'Caveat', cursive;
+    font-family: 'Foldit', cursive;
+    font-family: 'Montserrat', sans-serif;  
+}
+#Text_Align{
+    text-align: right;
+}
+html{
+   font-size: 30px; 
+}
