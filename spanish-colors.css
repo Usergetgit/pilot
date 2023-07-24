@@ -1,0 +1,12 @@
+.color-title
+{
+    font-weight: normal;
+}
+#blue{
+    color:blue;
+}   
+img[src] {
+    height: 200px;
+    width: 200px;
+}
+
